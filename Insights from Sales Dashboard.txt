@@ -1,0 +1,6 @@
+Insights from Sales Dashboard:
+
+1. The Technology category had the highest total sales among all product categories.
+2. Sales peaked during the months of November and December, indicating a strong holiday season trend.
+3. The West region consistently outperformed other regions in terms of total sales.
+4. Office Supplies had the lowest sales among the three categories, suggesting potential for promotional focus.
